@@ -6,5 +6,7 @@
 !*/*.ui
 !*/*.user
 !*/*.pro
+!*/*.qml
+!*/*.qrc
 !*/CustomControls
 !*/res

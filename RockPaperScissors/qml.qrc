@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomControls/qmldir</file>
+        <file>CustomControls/GameButton.qml</file>
+        <file>res/paper.jpg</file>
+        <file>res/rock.jpg</file>
+        <file>res/scissors.jpg</file>
+        <file>res/equals.png</file>
+        <file>res/greater_than.png</file>
+        <file>res/less_than.png</file>
+        <file>res/question.png</file>
+    </qresource>
+</RCC>

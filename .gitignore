@@ -1,0 +1,10 @@
+/build*
+
+*/*
+!*/*.cpp
+!*/*.h
+!*/*.ui
+!*/*.user
+!*/*.pro
+!*/CustomControls
+!*/res
